@@ -3,7 +3,7 @@
 # I'm a Developer :man_technologist:
 
 - :world_map: Have a look at my website: [towaanu.com](https://towaanu.com)
-- :pencil2: You can find my articles : [dev.to/towaanu](https://dev.to/towaanu)
+- :pencil2: You can find my articles: [dev.to/towaanu](https://dev.to/towaanu)
 - 😃 Interests : Anime 📺, Manga 📖, Video games 🎮
 - 📫 How to reach me: <hello@towaanu.com>
 
