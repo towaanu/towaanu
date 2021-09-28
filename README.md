@@ -6,6 +6,9 @@
 - :pencil2: You can find my articles: [dev.to/towaanu](https://dev.to/towaanu)
 - 😃 Interests : Anime 📺, Manga 📖, Video games 🎮
 - 📫 How to reach me: <hello@towaanu.com>
+- :fr:
+
+I am looking for a job :eyes:
 
 <!--
 **towaanu/towaanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
