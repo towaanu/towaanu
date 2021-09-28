@@ -6,7 +6,6 @@
 - :pencil2: You can find my articles: [dev.to/towaanu](https://dev.to/towaanu)
 - 😃 Interests : Anime 📺, Manga 📖, Video games 🎮
 - 📫 How to reach me: <hello@towaanu.com>
-- :fr:
 
 I am looking for a job :eyes:
 
