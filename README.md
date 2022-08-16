@@ -5,7 +5,7 @@
 - :world_map: Have a look at my website: [towaanu.com](https://towaanu.com)
 - :pencil2: You can find my articles: [dev.to/towaanu](https://dev.to/towaanu)
 - 😃 Interests : Anime 📺, Manga 📖, Video games 🎮
-- 📫 How to reach me: <hello@towaanu.com>
+- 📫 How to reach me: <niantoinesan@gmail.com>
 
 <!--
 **towaanu/towaanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
